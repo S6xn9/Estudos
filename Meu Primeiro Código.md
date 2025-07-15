@@ -1,30 +1,30 @@
 
-# 🧠 HTML - Meu Primeiro Código
+# ðŸ§  HTML - Meu Primeiro CÃ³digo
 
-📅 Criado em: **14 de julho de 2025**  
-📚 Matéria: **Programação Web (Curso em Vídeo - HTML5 e CSS3)**  
-✍️ Autor: **Marco**
-
----
-
-## ✨ TEMA: Introdução ao HTML e meu primeiro código!
-
-> Esse é um resumo que fiz enquanto aprendia HTML. Escrevi com uma linguagem mais simples porque quero revisar no futuro e entender com clareza o que eu mesmo estudei. 😄
+ðŸ“… Criado em: **14 de julho de 2025**  
+ðŸ“š MatÃ©ria: **ProgramaÃ§Ã£o Web (Curso em VÃ­deo - HTML5 e CSS3)**  
+âœï¸ Autor: **Marco**
 
 ---
 
-## 📌 O que é HTML?
+## âœ¨ TEMA: IntroduÃ§Ã£o ao HTML e meu primeiro cÃ³digo!
 
-- HTML significa **HyperText Markup Language** (em português: Linguagem de Marcação de Hipertexto).
-- É a **base de qualquer página web**.
-- Não é uma linguagem de programação, e sim de **marcação** – a gente usa "tags" pra estruturar o conteúdo.
-- O HTML é responsável por organizar **textos, imagens, links, vídeos** e mais.
+> Esse Ã© um resumo que fiz enquanto aprendia HTML. Escrevi com uma linguagem mais simples porque quero revisar no futuro e entender com clareza o que eu mesmo estudei. ðŸ˜„
 
 ---
 
-## 🧱 Estrutura Básica de um Documento HTML
+## ðŸ“Œ O que Ã© HTML?
 
-Todo arquivo HTML segue uma estrutura padrão. Aqui vai o esqueleto básico:
+- HTML significa **HyperText Markup Language** (em portuguÃªs: Linguagem de MarcaÃ§Ã£o de Hipertexto).
+- Ã‰ a **base de qualquer pÃ¡gina web**.
+- NÃ£o Ã© uma linguagem de programaÃ§Ã£o, e sim de **marcaÃ§Ã£o** â€“ a gente usa "tags" pra estruturar o conteÃºdo.
+- O HTML Ã© responsÃ¡vel por organizar **textos, imagens, links, vÃ­deos** e mais.
+
+---
+
+## ðŸ§± Estrutura BÃ¡sica de um Documento HTML
+
+Todo arquivo HTML segue uma estrutura padrÃ£o. Aqui vai o esqueleto bÃ¡sico:
 
 ```html
 <!DOCTYPE html>
@@ -32,11 +32,11 @@ Todo arquivo HTML segue uma estrutura padrão. Aqui vai o esqueleto básico:
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha Primeira Página HTML</title>
+    <title>Minha Primeira PÃ¡gina HTML</title>
   </head>
   <body>
-    <h1>Olá, Mundo!</h1>
-    <p>Esta é a minha primeira página web.</p>
+    <h1>OlÃ¡, Mundo!</h1>
+    <p>Esta Ã© a minha primeira pÃ¡gina web.</p>
     <p>Estou aprendendo HTML!</p>
   </body>
 </html>
@@ -44,68 +44,68 @@ Todo arquivo HTML segue uma estrutura padrão. Aqui vai o esqueleto básico:
 
 ---
 
-### 🔍 Explicando parte por parte:
+### ðŸ” Explicando parte por parte:
 
-| Tag | Função |
+| Tag | FunÃ§Ã£o |
 |-----|--------|
 | `<!DOCTYPE html>` | Diz ao navegador que estamos usando **HTML5** |
-| `<html lang="pt-br">` | Começa o documento HTML e define o **idioma (Português do Brasil)** |
-| `<head>` | Guarda informações "invisíveis" (metadados) como o título e configuração de codificação |
-| `<meta charset="UTF-8">` | Faz com que acentos e símbolos apareçam corretamente |
-| `<meta name="viewport"...>` | Deixa a página adaptável a celulares e tablets (design responsivo) |
-| `<title>` | Título que aparece na aba do navegador |
+| `<html lang="pt-br">` | ComeÃ§a o documento HTML e define o **idioma (PortuguÃªs do Brasil)** |
+| `<head>` | Guarda informaÃ§Ãµes "invisÃ­veis" (metadados) como o tÃ­tulo e configuraÃ§Ã£o de codificaÃ§Ã£o |
+| `<meta charset="UTF-8">` | Faz com que acentos e sÃ­mbolos apareÃ§am corretamente |
+| `<meta name="viewport"...>` | Deixa a pÃ¡gina adaptÃ¡vel a celulares e tablets (design responsivo) |
+| `<title>` | TÃ­tulo que aparece na aba do navegador |
 | `<body>` | Tudo que aparece na tela: textos, imagens, links, etc |
 
 ---
 
-## 🏷️ Como funcionam as tags HTML?
+## ðŸ·ï¸ Como funcionam as tags HTML?
 
 - A maioria das tags tem **abertura** e **fechamento**:
   ```html
-  <p>Este é um parágrafo.</p>
+  <p>Este Ã© um parÃ¡grafo.</p>
   ```
-- Algumas são **autofechantes** (ou "void"):
+- Algumas sÃ£o **autofechantes** (ou "void"):
   ```html
   <br>  <!-- quebra de linha -->
-  <img src="imagem.jpg" alt="Descrição da imagem">  <!-- imagem -->
+  <img src="imagem.jpg" alt="DescriÃ§Ã£o da imagem">  <!-- imagem -->
   ```
 
 ---
 
-## ⚙️ Atributos
+## âš™ï¸ Atributos
 
-Os **atributos** servem pra passar informações extras. Exemplo:
+Os **atributos** servem pra passar informaÃ§Ãµes extras. Exemplo:
 
 ```html
 <a href="https://www.google.com">Ir para o Google</a>
 ```
 
-- `href="..."` é o atributo que define o **endereço do link**.
+- `href="..."` Ã© o atributo que define o **endereÃ§o do link**.
 
 ---
 
-## 💻 Como visualizar seu código HTML
+## ðŸ’» Como visualizar seu cÃ³digo HTML
 
 1. Abra um editor de texto simples (Notepad, VS Code, etc).
-2. Digite o código HTML.
-3. Salve com a extensão `.html`, exemplo: `index.html`
-4. Dê dois cliques no arquivo ou abra com o navegador.
+2. Digite o cÃ³digo HTML.
+3. Salve com a extensÃ£o `.html`, exemplo: `index.html`
+4. DÃª dois cliques no arquivo ou abra com o navegador.
 
 ---
 
-## 🧠 Dicas para memorizar:
+## ðŸ§  Dicas para memorizar:
 
 - **HTML = Estrutura do site**.
-- Tudo começa com `<!DOCTYPE html>` e a tag `<html>`.
-- O que está em `<head>` são informações para o navegador (como o título).
-- O que está em `<body>` é o que o usuário vê.
+- Tudo comeÃ§a com `<!DOCTYPE html>` e a tag `<html>`.
+- O que estÃ¡ em `<head>` sÃ£o informaÃ§Ãµes para o navegador (como o tÃ­tulo).
+- O que estÃ¡ em `<body>` Ã© o que o usuÃ¡rio vÃª.
 - Sempre use `<meta charset="UTF-8">` para evitar erros com acentos.
-- O `viewport` é essencial para sites responsivos.
+- O `viewport` Ã© essencial para sites responsivos.
 - O `<title>` ajuda em SEO e deixa sua aba com nome.
 
 ---
 
-### 🚀 Bora continuar?
+### ðŸš€ Bora continuar?
 
-Se você também está aprendendo HTML, me segue por aqui ou dá um ⭐️ nesse repositório!
-�️ nesse repositório!
+Se vocÃª tambÃ©m estÃ¡ aprendendo HTML, me segue por aqui ou dÃ¡ um â­ï¸ nesse repositÃ³rio!
+ï¸ nesse repositÃ³rio!
