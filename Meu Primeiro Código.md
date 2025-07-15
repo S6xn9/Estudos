@@ -2,7 +2,7 @@
 # 🧠 HTML - Seu Primeiro Código (Capítulo 04 - Aula 02)
 
 📅 Criado em: **14 de julho de 2025**  
-📚 Matéria: **Programação Web (Curso em Vídeo - HTML5 e CSS3)**  
+📚 Matéria: **Programação Web (HTML5 e CSS3)**  
 ✍️ Autor: **Marco**
 
 ---
