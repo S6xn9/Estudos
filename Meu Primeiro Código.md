@@ -108,4 +108,4 @@ Os **atributos** servem pra passar informações extras. Exemplo:
 ### 🚀 Bora continuar?
 
 Se você também está aprendendo HTML, me segue por aqui ou dá um ⭐️ nesse repositório!
-�️ nesse repositório!
+
